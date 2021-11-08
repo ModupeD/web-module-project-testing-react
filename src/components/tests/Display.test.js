@@ -1,17 +1,4 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+test("renders without error", () => {});
 
 ///Tasks:
 //1. Add in nessisary imports and values to establish the testing suite.
